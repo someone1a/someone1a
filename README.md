@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **html and css**
 
-- 📫 How to reach me **carrascowalter440@gmail.com**
-
 - ⚡ Fun fact **I learned html at 12 years old**
 
 <h3 align="left">Connect with me:</h3>
