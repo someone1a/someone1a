@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Someone1a</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on **PlaniProfe**
+- 🔭 I’m currently working on **Crea Tu Futuro**
 
 - 🌱 I’m currently learning **Javascript, and php**
 
