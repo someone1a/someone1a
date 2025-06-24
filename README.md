@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Someone1a</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on **PsicologIA**
+- 🔭 I’m currently working on **Onto-AI**
 
-- 🌱 I’m currently learning **Javascript, and php**
+- 🌱 I’m currently learning **Angular , and python**
 
 - 💬 Ask me about **html and css**
 
