@@ -48,8 +48,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=someone1a&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=someone1a&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=someone1a&layout=compact&show_icons=true&theme=merko&hide_border=true&border_radius=10" width="51%"/>
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=someone1a&layout=compact&theme=merko&hide_border=true&border_radius=10" width="48%"/>
 </p>
 
 ---
@@ -68,9 +68,3 @@
   </a>
 </p>
 
----
-
-<!-- PIE DE PÁGINA ANIMADO -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"/>
-</p>
